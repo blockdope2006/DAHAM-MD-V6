@@ -1,0 +1,3 @@
+cd pair-site
+npm install
+node server.js
